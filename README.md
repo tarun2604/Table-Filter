@@ -1,2 +1,2 @@
-# Table-Filter
+# Table Filter
 This is a table filter project
